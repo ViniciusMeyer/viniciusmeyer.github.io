@@ -58,7 +58,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
           <strong>Simulators Usage Analysis to Estimate Power Consumption in Cloud Computing Environments
 </strong><br />
           <b>MEYER, V.</b>; KRINDGES, R. ; FERRETO, T. C. ; DE ROSE, CESAR A.F. ; HESSEL, F.<br />
-		Symposium on High Performance Computing Systems <b>(WSCAD)</b>, 2018. p. 70. São Paulo, Brazil <br />          
+		Symposium on High Performance Computing Systems <b>(WSCAD)</b>, 2018. p. 70. São Paulo, Brazil. <br />          
           <a href="aaa">[PDF]</a> <a href="aaaa">[CODE]</a><br />
        </p>
     </div>
