@@ -3,19 +3,19 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=X3vVZPcAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
+You can also browse my <a href="https://scholar.google.com.br/citations?user=t9wEQ7wAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
-
 <h3>
     <a name='2019'></a> 2019
 </h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses
+          <strong>Pipel: Exploiting Resource Reorganization to Optimize Performance of Pipeline-Structured Applications in the Cloud
 </strong><br />
-          Yingwei Li, Song Bai, <b>Cihang Xie</b>, Zhenyu Liao, Xiaohui Shen, Alan Yuille<br />
-          Tech report, arXiv<br />
+          MEYER, V.; RODRIGUES, V. F. ; RIGHI, R. R. ; COSTA, C. A. da ; GALANTE, G ; BOTH, C. .<br />
+		International Journal of Computational Systems Engineering, v. 5, p. 1-17, 2019.<br />          
+		Tech report, arXiv<br />
           <a href="https://arxiv.org/pdf/1904.00979.pdf">[PDF]</a> <a href="https://github.com/LiYingwei/Regional-Homogeneity">[CODE]</a><br />
        </p>
     </div>
