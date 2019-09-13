@@ -29,7 +29,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>Performance and Cost Analysis between Elasticity Strategies over Pipeline-structured Applications
 </strong><br />
-          <b>MEYER, VINÍCIUS</b>; XAVIER, MIGUEL ; KIRCHOFF, DIONATRA ; RIGHI, RODRIGO ; F. DE ROSE, CESAR<br />
+          <b>MEYER, V.</b>; XAVIER, M. ; KIRCHOFF, D. ; RIGHI, R. ; F. DE ROSE, CESAR<br />
 		Proceedings of the 9th International Conference on Cloud Computing and Services Science (CLOSER), 2019. v. 1. p. 404-411. Heraklion, Greece.<br />          
           <a href="aaa">[PDF]</a> <a href="aaaa">[CODE]</a><br />
        </p>
@@ -57,7 +57,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>Simulators Usage Analysis to Estimate Power Consumption in Cloud Computing Environments
 </strong><br />
-          <b>MEYER, VINICIUS</b>; KRINDGES, RAFAEL ; FERRETO, TIAGO C. ; DE ROSE, CESAR A.F. ; HESSEL, FABIANNO  <br />
+          <b>MEYER, V.</b>; KRINDGES, R. ; FERRETO, T. C. ; DE ROSE, CESAR A.F. ; HESSEL, F.<br />
 		Symposium on High Performance Computing Systems (WSCAD), 2018. p. 70. São Paulo, Brazil <br />          
           <a href="aaa">[PDF]</a> <a href="aaaa">[CODE]</a><br />
        </p>
