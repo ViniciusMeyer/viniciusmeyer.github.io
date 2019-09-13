@@ -48,6 +48,10 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     </div>
 </div>
 
+<h3>
+    <a name='2019'></a> 2019
+</h3>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
