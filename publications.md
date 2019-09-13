@@ -17,7 +17,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
           <strong>Pipel: Exploiting Resource Reorganization to Optimize Performance of Pipeline-Structured Applications in the Cloud
 </strong><br />
           <b>MEYER, V.</b>; RODRIGUES, V. F. ; RIGHI, R. R. ; COSTA, C. A. da ; GALANTE, G ; BOTH, C. .<br />
-		International Journal of Computational Systems Engineering <b>IJCSysE</b>, v. 5, p. 1-17, 2019<br />          
+		International Journal of Computational Systems Engineering <b>(IJCSysE)</b>, v. 5, p. 1-17, 2019<br />          
 	<a href="aaa">[PDF]</a> <a href="aaaa">[CODE]</a><br />
        </p>
     </div>
