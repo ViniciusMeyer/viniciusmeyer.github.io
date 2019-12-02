@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>An Interference-Aware Application Classifier Based on Machine Learning to Improve Scheduling in Clouds</strong><br />
           <b>MEYER, V.</b>; KIRCHOFF, D. F.;  DA SILVA, M. L.;  AND  DE ROSE, C. A. F.<br />
-		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <br>(PDP2020)</br>, 2020. Västerås, Sweden.<br />          
+		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP2020)</b>, 2020. Västerås, Sweden.<br />          
           <a href="a">[Link]</a>(to appear) <br />
        </p>
     </div>
@@ -26,7 +26,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>Modeling and Simulation of QoS-Aware Power Budgeting in Cloud Data Centers</strong><br />
           KRZYWDA, J.; <b>MEYER</b>; XAVIER, M.;  ALI-ELDIN, A.; ÖSTBERG, P.; DE ROSE, C. A. F. AND ELMROTH E.<br />
-		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <br>(PDP2020)</br>, 2020. Västerås, Sweden.<br />          
+		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP2020)</b>, 2020. Västerås, Sweden.<br />          
           <a href="a">[Link]</a>(to appear) <br />
        </p>
     </div>
@@ -37,7 +37,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>Evaluating the performance and improving the usability of parallel and distributed Word Embeddings tools</strong><br />
           DA SILVA, M. L.; <b>MEYER, V.</b>; KIRCHOFF, D. F.; SANTOS, J.; VIEIRA, R.  AND  DE ROSE, C. A. F.<br />
-		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <br>(PDP2020)</br>, 2020. Västerås, Sweden.<br />          
+		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP2020)</b>, 2020. Västerås, Sweden.<br />          
           <a href="a">[Link]</a>(to appear) <br />
        </p>
     </div>
