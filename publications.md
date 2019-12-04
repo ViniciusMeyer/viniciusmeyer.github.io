@@ -54,7 +54,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>Performance and Cost Analysis between Elasticity Strategies over Pipeline-structured Applications
 </strong><br />
-          <b>MEYER, V.</b>; XAVIER, M. ; KIRCHOFF, D. ; RIGHI, R. ; DE ROSE, C. A. F.<br />
+          <b>MEYER, V.</b> ; XAVIER, M. ; KIRCHOFF, D. ; RIGHI, R. ; DE ROSE, C. A. F.<br />
 		Proceedings of the 9th International Conference on Cloud Computing and Services Science <b>(CLOSER)</b>, 2019. v. 1. p. 404-411. Heraklion, Greece.<br />          
           <a href="http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0007729004040411">[Link]</a> <br />
        </p>
