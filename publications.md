@@ -25,7 +25,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     <div class="media-body">
        <p class="media-heading">
           <strong>Modeling and Simulation of QoS-Aware Power Budgeting in Cloud Data Centers</strong><br />
-          KRZYWDA, J.; <b>MEYER V.</b>; XAVIER, M.;  ALI-ELDIN, A.; ÖSTBERG, P.; DE ROSE, C. A. F. AND ELMROTH E.<br />
+          KRZYWDA, J.; <b>MEYER V.</b>; XAVIER, M.;  ALI-ELDIN, A.; ÖSTBERG, P.; DE ROSE, C. A. F. AND ELMROTH, E.<br />
 		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP2020)</b>, 2020. Västerås, Sweden.<br />          
           <a href="a">[Link]</a> (to appear) <br />
        </p>
