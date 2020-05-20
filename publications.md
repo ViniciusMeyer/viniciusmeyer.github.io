@@ -14,7 +14,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     <div class="media-body">
        <p class="media-heading">
           <strong>An Interference-Aware Application Classifier Based on Machine Learning to Improve Scheduling in Clouds</strong><br />
-          <b>MEYER, V.</b> ; KIRCHOFF, D. F. ;  SILVA, M. L. ; DE ROSE, C. A. F.<br />
+          <b>MEYER, V.</b> ; KIRCHOFF, D. F. ;  Da SILVA, M. L. ; DE ROSE, C. A. F.<br />
 		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP)</b>, 2020. Västerås, Sweden.<br />          
           <a href="https://ieeexplore.ieee.org/document/9092335">[Link]</a><br />
        </p>
@@ -36,7 +36,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     <div class="media-body">
        <p class="media-heading">
           <strong>Evaluating the performance and improving the usability of parallel and distributed Word Embeddings tools</strong><br />
-          SILVA, M. L.; <b>MEYER, V.</b> ; KIRCHOFF, D. F. ; SANTOS, J. ; VIEIRA, R. ; DE ROSE, C. A. F.<br />
+          Da SILVA, M. L.; <b>MEYER, V.</b> ; KIRCHOFF, D. F. ; SANTOS, J. ; VIEIRA, R. ; DE ROSE, C. A. F.<br />
 		Proceedings of the 28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing <b>(PDP)</b>, 2020. Västerås, Sweden.<br />          
           <a href="https://ieeexplore.ieee.org/document/9092420">[Link]</a><br />
        </p>
