@@ -73,7 +73,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
           <strong>Hugo: A Cluster Scheduler that Efficiently Learns to Select Complementary Data-Parallel Jobs
 </strong><br />
           THAMSEN, L. ; VERBITSKIY, I ; NEDELKOSKI, S ; TRAN, V. T. ; <b>MEYER, V.</b> ; XAVIER, M. G. ; KAO, O ; DE ROSE, C. A. F. <br />
-		Euro-Par 2019: Parallel Processing Workshops <b>(EUROPAR)</b>, 2019. v. 1. p. 519-530. Goettingen, Germany. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-48340-1_40">[Link]</a><br />
+		Euro-Par 2019: European Conference on Parallel Processing Workshops <b>(EUROPARW)</b>, 2019. v. 1. p. 519-530. Goettingen, Germany. <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-48340-1_40">[Link]</a><br />
        </p>
     </div>
 </div>
