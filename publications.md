@@ -40,6 +40,16 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     </div>
 </div>
 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Towards Interference-aware Dynamic Scheduling in Virtualized Environments.</strong><br />
+          <b>MEYER, V.</b> ; LUDWIG, U. L. ; XAVIER, M. G. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F. .<br />
+		Proceeding of 23nd International Workshop on Job Scheduling Strategies for Parallel Processing <b>(JSSPP)</b>, in conjunction with  the 35th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2020),  New Orleans, USA, 2020, pp. 1-24. <a href="a">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
 
 
 <h3>
