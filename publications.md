@@ -10,6 +10,21 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     <a name='2020'></a> 2020
 </h3>
 
+
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Towards Interference-aware Dynamic Scheduling in Virtualized Environments.</strong><br />
+          <b>MEYER, V.</b> ; LUDWIG, U. L. ; XAVIER, M. G. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F. .<br />
+		IEEE International Parallel and Distributed Processing Symposium Workshops <b>(IPDPSW)</b>. Proceedings of the 23nd International Workshop on Job Scheduling Strategies for Parallel Processing <b>(JSSPP)</b>. New Orleans, USA, 2020, pp. 1-24. <a href="https://link.springer.com/chapter/10.1007/978-3-030-63171-0_1">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
+
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -39,17 +54,6 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        </p>
     </div>
 </div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Towards Interference-aware Dynamic Scheduling in Virtualized Environments.</strong><br />
-          <b>MEYER, V.</b> ; LUDWIG, U. L. ; XAVIER, M. G. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F. .<br />
-		IEEE International Parallel and Distributed Processing Symposium Workshops <b>(IPDPSW)</b>. Proceedings of the 23nd International Workshop on Job Scheduling Strategies for Parallel Processing <b>(JSSPP)</b>. New Orleans, USA, 2020. To appear. <a href="https://link.springer.com/chapter/10.1007/978-3-030-63171-0_1">[Link]</a><br />
-       </p>
-    </div>
-</div>
-
 
 
 <h3>
