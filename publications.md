@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong>ML-driven Classification Scheme for Dynamic Interference-aware Resource Scheduling in Cloud Infrastructures</strong><br />
           <b>MEYER, V.</b> ; KIRCHOFF, D. F. ;  SILVA, M. L. ; DE ROSE, C. A. F.<br />
-		JOURNAL OF SYSTEMS ARCHITECTURE <b>(PDP)</b>, 2021, To appear. <a href="a">[Link]</a><br />
+		JOURNAL OF SYSTEMS ARCHITECTURE <b>(JSA)</b>, 2021, To appear. <a href="a">[Link]</a><br />
        </p>
     </div>
 </div>
