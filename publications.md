@@ -13,6 +13,16 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong> Edge computing and its boundaries to IoT and Industry 4.0: a systematic mapping study.</strong><br />
+          SILVA, M. L. ; <b>MEYER, V.</b> ; DE ROSE, C. A. F.<br />
+		International Journal of Grid and Utility Computing <b>(IJGUC)</b>, to appear. <a href="https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=IJGUC">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>ML-driven Classification Scheme for Dynamic Interference-aware Resource Scheduling in Cloud Infrastructures</strong><br />
           <b>MEYER, V.</b> ; KIRCHOFF, D. F. ;  SILVA, M. L. ; DE ROSE, C. A. F.<br />
 		Journal of Systems Architecture <b>(JSA)</b>, v.116, p.102064, 2021. <a href="https://doi.org/10.1016/j.sysarc.2021.102064">[Link]</a><br />
