@@ -5,6 +5,22 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.com.br/citations?user=t9wEQ7wAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
+<h3>
+    <a name='2022'></a> 2022
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> Interference-aware cloud scheduling architecture for dynamic latency-sensitive workloads.</strong><br />
+         <b>MEYER, V.</b><br />
+		Doctoral Thesis submitted to the Pontifical Catholic University of Rio Grande do Sul (PUCRS)<a href="https://tede2.pucrs.br/tede2/bitstream/tede/10326/2/VINICIUS_MEYER_TES.pdf">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
+
+
 
 <h3>
     <a name='2021'></a> 2021
