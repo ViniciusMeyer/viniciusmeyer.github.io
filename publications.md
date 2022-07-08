@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        <p class="media-heading">
           <strong> Interference-aware cloud scheduling architecture for dynamic latency-sensitive workloads.</strong><br />
          <b>MEYER, V.</b><br />
-		Doctoral Thesis submitted to the Pontifical Catholic University of Rio Grande do Sul (PUCRS)<a href="https://tede2.pucrs.br/tede2/bitstream/tede/10326/2/VINICIUS_MEYER_TES.pdf">[Link]</a><br />
+		Doctoral Thesis, Pontifical Catholic University of Rio Grande do Sul (PUCRS)<a href="https://tede2.pucrs.br/tede2/bitstream/tede/10326/2/VINICIUS_MEYER_TES.pdf">[Link]</a><br />
        </p>
     </div>
 </div>
