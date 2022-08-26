@@ -9,6 +9,15 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
 <h3>
     <a name='2022'></a> 2022
 </h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong> IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive workloads.</strong><br />
+         <b>MEYER, V.</b> ; SILVA, M. L. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F.<br />
+		DoJournal of Systems and Software <b>(JSS)</b><a href="https://www.sciencedirect.com/science/article/pii/S0164121222001698">[Link]</a><br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
