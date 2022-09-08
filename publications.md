@@ -15,7 +15,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
        
 	       
 	       
-    <table border=1>
+    <table class="fixed" >
     <col width="90%" />
 	<col width="10%" />
 	<tr>
