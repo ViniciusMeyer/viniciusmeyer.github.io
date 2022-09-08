@@ -24,7 +24,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
 	</td>
     
 	<td>
-		<img src="https://github.com/ViniciusMeyer/viniciusmeyer.github.io/blob/master/img/JSSoftw.jpg" alt="JSS" width="50" >
+		<img src="https://ars.els-cdn.com/content/image/X01641212.jpg" alt="JSS" width="50" >
 	</td>
     </tr>
     </table>
