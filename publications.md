@@ -12,7 +12,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <img src="https://github.com/ViniciusMeyer/viniciusmeyer.github.io/blob/master/img/JSSoftw.jpg" alt="JSS" width="20" ><strong> IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive workloads.</strong><br />
+          <img src="https://github.com/ViniciusMeyer/viniciusmeyer.github.io/blob/master/img/JSSoftw.jpg" alt="JSS" width="50" ><strong> IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive workloads.</strong><br />
          <b>MEYER, V.</b> ; SILVA, M. L. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F.<br />
 		Journal of Systems and Software <b>(JSS)</b>, v.194C p.111491, 2022.<a href="https://www.sciencedirect.com/science/article/pii/S0164121222001698">[Link]</a><br />
        </p>
