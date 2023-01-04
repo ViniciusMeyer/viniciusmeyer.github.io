@@ -10,6 +10,20 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
     <a name='2022'></a> 2022
 </h3>
 
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>IntP: Quantifying cross-application interference via system-level instrumentation</strong><br />
+          XAVIER, M. G.; CANO, C. H.; <b>MEYER, V.</b>; DE ROSE, C. A. F.<br />
+	  	Proceedings of the  2022 IEEE 34th International Symposium on Computer Architecture and High Performance Computing <b>(SBAC-PAD)</b>, Bordeaux, France 2022, pp. 231-240. <a href="https://ieeexplore.ieee.org/document/9980934">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
+
+
 <div class="media">
     <div class="media-body">
               <p class="media-heading"><strong> IADA: A dynamic interference-aware cloud scheduling architecture for latency-sensitive workloads.</strong><br /><b>MEYER, V.</b> ; SILVA, M. L. ; KIRCHOFF, D. F. ; DE ROSE, C. A. F.<br />Journal of Systems and Software <b>(JSS)</b>, v.194C p.111491, 2022.<a href="https://www.sciencedirect.com/science/article/pii/S0164121222001698">[Link]</a><br /></p>
