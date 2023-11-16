@@ -7,6 +7,19 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=t9w
 <br />
 
 <h3>
+    <a name='2023'></a> 2023
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>A versatile emulator tool to evaluate the scalability of Edge architectures in IoT scenarios</strong><br />
+          DA SILVA, M.; GONÇALVES, H.;<b>MEYER, V.</b>; HESSEL, F.; DE ROSE C. A. F.<br />
+	  	Proceedings of the 9th IEEE World Forum on Internet of Things <b>(WF-IoT)</b>, Aveiro, Portugal, pp. X-X <a href="#">[To appear]</a><br />
+       </p>
+    </div>
+</div>
+
+<h3>
     <a name='2022'></a> 2022
 </h3>
 
