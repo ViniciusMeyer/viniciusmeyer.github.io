@@ -6,6 +6,20 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com.br/citations?user=t9wEQ7wAAAAJ&hl=en&oi=sra" target="_blank">Google Scholar profile</a>.
 <br />
 
+
+<h3>
+    <a name='2024'></a> 2024
+</h3>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Evaluating machine learning prediction techniques and their impact on proactive resource provisioning for cloud environments</strong><br />
+          KIRCHOFF, D. F. ; <b>MEYER, V.</b>; CALHEIROS, R. N.; DE ROSE C. A. F.<br />
+	  	 The Journal of Supercomputing <b>(SC)</b>, 2024 <a href="https://doi.org/10.1007/s11227-024-06303-6">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
 <h3>
     <a name='2023'></a> 2023
 </h3>
