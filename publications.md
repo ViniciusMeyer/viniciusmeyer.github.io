@@ -28,7 +28,7 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=nUo
        <p class="media-heading">
           <strong>A versatile emulator tool to evaluate the scalability of Edge architectures in IoT scenarios</strong><br />
           DA SILVA, M.; GONÇALVES, H.;<b>MEYER, V.</b>; HESSEL, F.; DE ROSE C. A. F.<br />
-	  	Proceedings of the 9th IEEE World Forum on Internet of Things <b>(WF-IoT)</b>, Aveiro, Portugal, pp. X-X, to appear. <a href="https://ieeexplore.ieee.org/abstract/document/10539402">[Link]</a><br />
+	  	Proceedings of the 9th IEEE World Forum on Internet of Things <b>(WF-IoT)</b>, Aveiro, Portugal, pp. 1-6, 2023 . <a href="https://ieeexplore.ieee.org/abstract/document/10539402">[Link]</a><br />
        </p>
     </div>
 </div>
