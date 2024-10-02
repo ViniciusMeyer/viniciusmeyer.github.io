@@ -21,7 +21,6 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=nUo
           STORCH, M; <b>MEYER, V.</b>; ZORZO, A; DE ROSE C. A. F.<br />
 	  	Symposium on High Performance Computing Systems <b>(SSCAD)</b>, 2024. p. xx. São Carlos, SP, Brazil. <a href="#">[Link]</a> <br />
        </p>
-       </p>
     </div>
 </div>
 
