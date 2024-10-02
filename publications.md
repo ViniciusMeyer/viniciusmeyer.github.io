@@ -10,6 +10,20 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=nUo
 <h3>
     <a name='2024'></a> 2024
 </h3>
+
+
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>A Modular Architecture and a Cost-Model to Estimate the Overhead of Implementing Confidentiality in Cloud Computing Environments</strong><br />
+          STORCH, M; <b>MEYER, V.</b>; ZORZO, A; DE ROSE C. A. F.<br />
+	  	 Simpósio em Sistemas Computacionais de Alto Desempenho <b>(SSCAD)</b>, 2024 <a href="#">[Link]</a><br />
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
