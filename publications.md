@@ -19,7 +19,8 @@ You can also browse my <a href="https://scholar.google.com.br/citations?user=nUo
        <p class="media-heading">
           <strong>A Modular Architecture and a Cost-Model to Estimate the Overhead of Implementing Confidentiality in Cloud Computing Environments</strong><br />
           STORCH, M; <b>MEYER, V.</b>; ZORZO, A; DE ROSE C. A. F.<br />
-	  	 Simpósio em Sistemas Computacionais de Alto Desempenho <b>(SSCAD)</b>, 2024 <a href="#">[Link]</a><br />
+	  	Symposium on High Performance Computing Systems <b>(SSCAD)</b>, 2024. p. xx. São Carlos, SP, Brazil. <a href="#">[Link]</a> <br />
+       </p>
        </p>
     </div>
 </div>
